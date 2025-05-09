@@ -3,7 +3,7 @@ ORECA là một startup công nghệ chuyên phát triển các ứng dụng di 
 
 # Executive summary 
 ![graph](assets/img/Image1.jpeg)
-![graph](assets/img/image2.jpeg)
+![graph](assets/img/Image2.jpeg)
 
 
 
