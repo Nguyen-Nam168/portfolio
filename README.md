@@ -21,7 +21,9 @@ Người dùng máy tính bảng có tỷ lệ hủy cao nhất. Điều này ch
 - Triển khai các chương trình khuyến mãi hoặc giảm giá độc quyền dành cho người dùng máy tính bảng cao cấp để tăng cường sự gắn bó và giảm tỷ lệ hủy.
 
 ![graph](assets/img/Image1.jpeg)
+Tỉ lệ người dùng rời bỏ app tính theo trạng thái Free/Preimium 
 ![graph](assets/img/Image2.jpeg)
+Tỉ lệ người dùng rời bỏ app tính theo loại thiết bị 
 
 
 
