@@ -25,5 +25,12 @@ Tỉ lệ người dùng rời bỏ app tính theo trạng thái Free/Preimium
 ![graph](assets/img/Image2.jpeg)
 Tỉ lệ người dùng rời bỏ app tính theo loại thiết bị 
 
+## 📊 Tỉ lệ rời bỏ theo đất nước
+
+Vì file README không hỗ trợ hiển thị trực tiếp biểu đồ Tableau, anh/chị có thể xem biểu đồ tại liên kết sau:
+
+🔗 [Xem biểu đồ trên Tableau Public](https://public.tableau.com/views/ORECAportfolio/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 
