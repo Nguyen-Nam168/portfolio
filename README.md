@@ -32,6 +32,8 @@ Vì file README không hỗ trợ hiển thị trực tiếp biểu đồ Tablea
 🔗 [Xem biểu đồ trên Tableau Public](https://public.tableau.com/views/ORECAportfolio/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🌍 Chiến lược mở rộng thị trường sau khi xác định các quốc gia có rating cao
+![My Image](assets/img/Image3.jpeg)
+
 
 Sau khi xác định được các quốc gia có người dùng premium đánh giá cao nhất, công ty nên xem xét triển khai các chiến lược sau để phát triển thị trường tiềm năng:
 
