@@ -31,6 +31,25 @@ Vì file README không hỗ trợ hiển thị trực tiếp biểu đồ Tablea
 
 🔗 [Xem biểu đồ trên Tableau Public](https://public.tableau.com/views/ORECAportfolio/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## 🌍 Chiến lược mở rộng thị trường sau khi xác định các quốc gia có rating cao
+
+Sau khi xác định được các quốc gia có người dùng premium đánh giá cao nhất, công ty nên xem xét triển khai các chiến lược sau để phát triển thị trường tiềm năng:
+
+### 1. Bản địa hóa toàn diện
+
+- **Dịch thuật nội dung**: Chuyển ngữ toàn bộ nội dung ứng dụng sang ngôn ngữ địa phương, đảm bảo tính chính xác và phù hợp văn hóa.
+- **Điều chỉnh giao diện người dùng (UI)**: Tùy chỉnh bố cục, màu sắc, hình ảnh và biểu tượng để phù hợp với thẩm mỹ và kỳ vọng của người dùng địa phương.
+- **Tùy chỉnh đơn vị tiền tệ và định dạng**: Hiển thị giá cả, ngày tháng và các đơn vị đo lường theo chuẩn mực của từng quốc gia.
+
+### 2. Hợp tác với đối tác địa phương
+
+- **Liên kết với công ty địa phương**: :contentReference[oaicite:10]{index=10}
+- **Chiến dịch tiếp thị chung**: :contentReference[oaicite:13]{index=13}
+- **Tích hợp dịch vụ địa phương**: :contentReference[oaicite:16]{index=16}
+---
+
+
+
 
 
 
