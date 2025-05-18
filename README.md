@@ -53,10 +53,21 @@ Sau khi xác định được các quốc gia có người dùng premium đánh 
 ### Các loại thiết bị và việc liệu có tương quan giữa hành động tương tác với tính năng của app và lượng piano lesson được hoàn thành hay không
 
 ![Tương quan thiết bị và tương tác tính năng](assets/img/Image5.jpeg)
+## 📊 Phân Tích Hành Vi Người Dùng
 
+> **Kết luận:** Những người **có tương tác với tính năng** trên app luôn có **số lượng bài học (lesson) được hoàn thành cao hơn** so với những người không tương tác, **bất kể thiết bị nào** được sử dụng.
 
+Điều này chứng minh rằng việc khai thác tính năng đã góp phần tăng mức độ học tập của người dùng.
+## 🚀 Đề xuất cải thiện ứng dụng
 
+🔍 **Phân tích**:  
+Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuyên tương tác với các tính năng trong ứng dụng.
 
+🎯 **Giải pháp đề xuất**:
 
+- 📣 **Tăng cường hiển thị** các tính năng hữu ích trong app.
+- 🧭 **Hướng dẫn sử dụng** tính năng rõ ràng, dễ hiểu.
+- 🕹️ **Gamification**: Thêm điểm thưởng, huy hiệu để tạo động lực.
+- 🔔 **Nhắc nhở thông minh** để khuyến khích người dùng quay lại học.
 
-
+👉 Những thay đổi này có thể giúp **nâng cao hiệu quả học tập** và **giữ chân người dùng lâu dài hơn**.
