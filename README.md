@@ -34,6 +34,9 @@ Vì file README không hỗ trợ hiển thị trực tiếp biểu đồ Tablea
 ## 🌍 Chiến lược mở rộng thị trường sau khi xác định các quốc gia có rating cao
 ![My Image](assets/img/Image3.jpeg)
 
+### Top 3 countries with highest ratings (free users)
+
+![Top 3 countries with highest ratings (free users)](assets/img/Image4.jpeg)
 
 Sau khi xác định được các quốc gia có người dùng premium đánh giá cao nhất, công ty nên xem xét triển khai các chiến lược sau để phát triển thị trường tiềm năng:
 
