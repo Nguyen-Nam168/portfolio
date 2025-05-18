@@ -50,6 +50,10 @@ Sau khi xác định được các quốc gia có người dùng premium đánh 
 
 -  Liên kết với các công ty, nhà mạng hoặc nền tảng địa phương để xây dựng uy tín và mở rộng mạng lưới người dùng.
 ---
+### Các loại thiết bị và việc liệu có tương quan giữa hành động tương tác với tính năng của app và lượng piano lesson được hoàn thành hay không
+
+![Tương quan thiết bị và tương tác tính năng](assets/img/Image5.jpeg)
+
 
 
 
