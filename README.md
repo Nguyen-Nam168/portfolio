@@ -58,8 +58,6 @@ Sau khi xác định được các quốc gia có người dùng premium đánh 
 > **Kết luận:** Những người **có tương tác với tính năng** trên app luôn có **số lượng bài học (lesson) được hoàn thành cao hơn** so với những người không tương tác, **bất kể thiết bị nào** được sử dụng.
 
 Điều này chứng minh rằng việc khai thác tính năng đã góp phần tăng mức độ học tập của người dùng.
-## 🚀 Đề xuất cải thiện ứng dụng
-
 🔍 **Phân tích**:  
 Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuyên tương tác với các tính năng trong ứng dụng.
 
@@ -71,3 +69,4 @@ Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuy�
 - 🔔 **Nhắc nhở thông minh** để khuyến khích người dùng quay lại học.
 
 👉 Những thay đổi này có thể giúp **nâng cao hiệu quả học tập** và **giữ chân người dùng lâu dài hơn**.
+
