@@ -70,3 +70,15 @@ Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuy�
 
 👉 Những thay đổi này có thể giúp **nâng cao hiệu quả học tập** và **giữ chân người dùng lâu dài hơn**.
 
+## Top 10 người dùng có tổng số lesson được hoàn thành nhiều nhất
+
+![Top 10 người dùng có tổng số lesson được hoàn thành nhiều nhất](assets/img/Image6.jpeg)
+## Top 10 người dùng có thời gian cao nhất
+
+![Top 10 người dùng có thời gian cao nhất](assets/img/Image7.jpeg)
+## Giải pháp giữ chân người dùng hàng đầu
+
+- **Tặng phần thưởng độc quyền:** badge, lesson nâng cao, hoặc nội dung VIP.  
+- **Gửi lời cảm ơn cá nhân hóa:** qua thông báo hoặc email.  
+- **Mời tham gia beta tester hoặc cộng đồng riêng:** tạo cảm giác đặc biệt.  
+- **Duy trì thử thách định kỳ:** giữ động lực và thói quen học.
