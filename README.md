@@ -1,8 +1,25 @@
 # Giới thiệu dự án
 ORECA là một startup công nghệ chuyên phát triển các ứng dụng di động sáng tạo, mang đến trải nghiệm cá nhân hóa cho người dùng. Trong dự án này, tôi sử dụng kỹ năng SQL để phân tích một tập dữ liệu mô phỏng hành vi người dùng trên ứng dụng học đàn piano – một sản phẩm giả lập tương tự định hướng sản phẩm của ORECA. Mục tiêu là khai thác các insight về tần suất sử dụng, mức độ tương tác và hành trình người dùng, từ đó đưa ra đề xuất cải thiện trải nghiệm và giữ chân người dùng.
 
-# Executive summary 
+# Tóm tắt dự án 
 
+## Dataset giả lập tôi dùng cho việc phân tích 
+
+| Feature Name              | Data Type |
+|---------------------------|-----------|
+| User_ID                   | text      |
+| Session_Length_Minutes    | double    |
+| Time_of_Day               | text      |
+| Lesson_Completed          | int       |
+| Difficulty_Level          | text      |
+| Notifications_Received    | int       |
+| Interacted_With_Feature   | text      |
+| Subscription_Status       | text      |
+| Rating                    | double    |
+| Country                   | text      |
+| Device_Type               | text      |
+
+# Insights từ việc phân tích dataset 
 ## 📊 Tỉ lệ rời bỏ người dùng
 
 Tỷ lệ rời bỏ (churn rate) của người dùng **Premium** là **9.46%**, cao hơn so với người dùng **Free** là **8.41%**.
@@ -10,11 +27,10 @@ Tỷ lệ rời bỏ (churn rate) của người dùng **Premium** là **9.46%**
 Mặc dù thường kỳ vọng người dùng trả phí sẽ trung thành hơn, dữ liệu cho thấy họ có xu hướng rời bỏ nhiều hơn.
 
 Người dùng Premium có tỷ lệ rời bỏ cao hơn người dùng Free (9.46% so với 8.41%), cho thấy họ có thể chưa thấy đủ giá trị từ dịch vụ trả phí hoặc kỳ vọng không được đáp ứng.
-# 📉 Tỉ lệ rời bỏ theo loại thiết bị
+## 📉 Tỉ lệ rời bỏ theo loại thiết bị
 
 Người dùng máy tính bảng có tỷ lệ hủy cao nhất. Điều này cho thấy họ có xu hướng rời bỏ dịch vụ nhiều hơn so với người dùng thiết bị di động.
-
-## ✅ Giải pháp
+✅ Giải pháp
 
 - Cải thiện trải nghiệm người dùng trên máy tính bảng (UX/UI).
 - Cung cấp các ưu đãi nhằm giữ chân người dùng máy tính bảng.
@@ -31,14 +47,13 @@ Vì file README không hỗ trợ hiển thị trực tiếp biểu đồ Tablea
 
 🔗 [Xem biểu đồ trên Tableau Public](https://public.tableau.com/views/ORECAportfolio/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🌍 Chiến lược mở rộng thị trường sau khi xác định các quốc gia có rating cao
 ![My Image](assets/img/Image3.jpeg)
 
-### Top 3 countries with highest ratings (free users)
+### Top 3 đất nước với rating cao nhất (người dùng free)
 
 ![Top 3 countries with highest ratings (free users)](assets/img/Image4.jpeg)
 
-Sau khi xác định được các quốc gia có người dùng premium đánh giá cao nhất, công ty nên xem xét triển khai các chiến lược sau để phát triển thị trường tiềm năng:
+👉 Sau khi xác định được các quốc gia có người dùng đánh giá cao nhất, công ty nên xem xét triển khai các chiến lược sau để phát triển thị trường tiềm năng:
 
 ### 1. Bản địa hóa toàn diện
 
@@ -50,10 +65,9 @@ Sau khi xác định được các quốc gia có người dùng premium đánh 
 
 -  Liên kết với các công ty, nhà mạng hoặc nền tảng địa phương để xây dựng uy tín và mở rộng mạng lưới người dùng.
 ---
-### Các loại thiết bị và việc liệu có tương quan giữa hành động tương tác với tính năng của app và lượng piano lesson được hoàn thành hay không
+## Các loại thiết bị và việc liệu có tương quan giữa hành động tương tác với tính năng của app và lượng piano lesson được hoàn thành hay không
 
 ![Tương quan thiết bị và tương tác tính năng](assets/img/Image5.jpeg)
-## 📊 Phân Tích Hành Vi Người Dùng
 
 > **Kết luận:** Những người **có tương tác với tính năng** trên app luôn có **số lượng bài học (lesson) được hoàn thành cao hơn** so với những người không tương tác, **bất kể thiết bị nào** được sử dụng.
 
@@ -76,7 +90,7 @@ Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuy�
 ## Top 10 người dùng có thời gian cao nhất
 
 ![Top 10 người dùng có thời gian cao nhất](assets/img/Image7.jpeg)
-## Giải pháp giữ chân người dùng hàng đầu
+👉 Giải pháp giữ chân người dùng hàng đầu
 
 - **Tặng phần thưởng độc quyền:** badge, lesson nâng cao, hoặc nội dung VIP.  
 - **Gửi lời cảm ơn cá nhân hóa:** qua thông báo hoặc email.  
