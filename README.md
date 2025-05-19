@@ -73,7 +73,7 @@ Vì file README không hỗ trợ hiển thị trực tiếp biểu đồ Tablea
 🔍 **Phân tích**:  
 Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuyên tương tác với các tính năng trong ứng dụng.
 
-🎯 **Giải pháp đề xuất**:
+ **Giải pháp đề xuất**:
 
 - 📣 **Tăng cường hiển thị** các tính năng hữu ích trong app.
 - 🧭 **Hướng dẫn sử dụng** tính năng rõ ràng, dễ hiểu.
@@ -88,6 +88,7 @@ Người dùng có tỷ lệ hoàn thành bài học cao hơn khi thường xuy�
 ## ⏰ Top 10 người dùng có thời gian cao nhất
 
 ![Top 10 người dùng có thời gian cao nhất](assets/img/Image7.jpeg)
+
 👉 Giải pháp giữ chân người dùng hàng đầu
 
 - **Tặng phần thưởng độc quyền:** badge, lesson nâng cao, hoặc nội dung VIP.  
