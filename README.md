@@ -2,8 +2,23 @@
 ORECA là một startup công nghệ chuyên phát triển các ứng dụng di động sáng tạo, mang đến trải nghiệm cá nhân hóa cho người dùng. Trong dự án này, tôi sử dụng kỹ năng SQL để phân tích một tập dữ liệu mô phỏng hành vi người dùng trên ứng dụng học đàn piano – một sản phẩm giả lập tương tự định hướng sản phẩm của ORECA. Mục tiêu là khai thác các insight về tần suất sử dụng, mức độ tương tác và hành trình người dùng, từ đó đưa ra đề xuất cải thiện trải nghiệm và giữ chân người dùng.
 
 # Tóm tắt dự án 
+## 🧠 Mục Tiêu Dự Án
 
-## Dataset giả lập tôi dùng cho việc phân tích 
+Dự án này nhằm khai thác và phân tích bộ dữ liệu giả lập của ứng dụng học piano do công ty ORECA phát triển. Thông qua việc sử dụng MySQL Workbench để chạy các truy vấn SQL, mục tiêu là rút ra những insight quan trọng giúp cải thiện sản phẩm và trải nghiệm người dùng. Ngoài ra, nhiều giải pháp cũng được đưa ra giúp ORECA cải thiện app ngày một hoàn thiện hơn. 
+
+## 🔍 Các Phân Tích Chính
+
+- **Tỷ lệ người dùng rời bỏ ứng dụng**
+- **Top 3 quốc gia có đánh giá ứng dụng cao nhất**
+- **Mối liên hệ giữa loại thiết bị, hành vi tương tác và số lượng bài học hoàn thành**
+- **Nhóm người dùng trung thành và hoạt động tích cực nhất**
+
+## 🛠️ Công Cụ Sử Dụng
+
+- **MySQL Workbench**
+- **Tableau Public**
+
+## Dataset giả lập dùng cho việc phân tích. Anh/chị có thể download dataset ở Github repository.
 
 | Feature Name              | Data Type |
 |---------------------------|-----------|
